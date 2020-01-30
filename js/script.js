@@ -1,0 +1,1 @@
+let mixer = mixitup('.features_grid');
